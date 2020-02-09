@@ -19,6 +19,6 @@
     <key>PREVENT_APP_KILL</key>
     <string>Empêcher la fermeture des app actives</string>
     <key>APP_SWITCHER</key>
-    <string>Multi-tâches</string>
+    <string>Sélecteur d'app</string>
 </dict>
 </plist>
