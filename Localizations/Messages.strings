@@ -1,19 +1,19 @@
 <plist version="1.0">
 <dict>
     <key>CONTACT_PHOTOS</key>
-    <string>Contact Photos</string>
+    <string>Photos de Contact</string>
     <key>HIDE_SHARE_PHOTO_BANNER</key>
-    <string>Hide Share Photo Banner</string>
+    <string>Cacher la bannière de partage de photos</string>
     <key>APP_STRIP</key>
-    <string>App Strip</string>
+    <string>Bandes d'applications</string>
     <key>HIDE_MESSAGE_APPS</key>
-    <string>Hide iMessage Apps</string>
+    <string>Cacher l'app Imessage</string>
     <key>MESSAGE_BUBBLES</key>
-    <string>Message Bubbles</string>
+    <string>Bulles de Messages</string>
     <key>USE_CUSTOM_BUBBLE_COLOR</key>
-    <string>Use Custom Bubble Color</string>
+    <string>Utiliser une couleur customisé pour les bulles</string>
     <key>TINT_COLOR</key>
-    <string>Tint Color</string>
+    <string>Couleur de teinte</string>
     <key>MESSAGES</key>
     <string>Messages</string>
 </dict>
