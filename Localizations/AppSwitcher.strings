@@ -3,22 +3,22 @@
     <key>STYLE</key>
     <string>Style</string>
     <key>USE_GRID_SWITCHER</key>
-    <string>Use Grid Switcher</string>
+    <string>Utiliser la conformation grille</string>
     <key>HANDOFF</key>
     <string>Handoff</string>
     <key>HIDE_APP_SUGGESTIONS</key>
-    <string>Hide App Suggestions</string>
+    <string>Cacher les suggestions d'Appplications</string>
     <key>APP_CARDS</key>
     <string>App Cards</string>
     <key>HIDE_APP_LABELS</key>
-    <string>Hide App Labels</string>
+    <string>Cacher les titres des apps</string>
     <key>HIDE_APP_ICONS</key>
-    <string>Hide App Icons</string>
+    <string>Cacher les icones des app</string>
     <key>NOW_PLAYING</key>
-    <string>Now Playing</string>
+    <string>Morceau en cour</string>
     <key>PREVENT_APP_KILL</key>
-    <string>Prevent Killing of Playing Apps</string>
+    <string>Empêcher la fermeture des app actives</string>
     <key>APP_SWITCHER</key>
-    <string>App Switcher</string>
+    <string>Multi-tâches</string>
 </dict>
 </plist>
