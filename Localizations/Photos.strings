@@ -3,8 +3,8 @@
     <key>PHOTOS</key>
     <string>Photos</string>
     <key>SKIP_DELETION_CONFIRMATION</key>
-    <string>Skip Deletion Confirmation</string>
+    <string>Sauter la confirmation de l'effacement</string>
     <key>USE_INIFINITE_ZOOM</key>
-    <string>Use Infinite Zoom</string>
+    <string>Utiliser un zoom infinie</string>
 </dict>
 </plist>
