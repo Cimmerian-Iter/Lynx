@@ -1,27 +1,27 @@
 <plist version="1.0">
 <dict>
     <key>MAIN_TWEAK_SETTINGS</key>
-    <string>Main Tweak Settings</string>
+    <string>Paramètres principaux du tweak</string>
     <key>ENABLE_TWEAK</key>
-    <string>Enable Tweak</string>
+    <string>Activer le tweak</string>
     <key>SECTIONS</key>
     <string>Sections</string>
     <key>SYSTEM_WIDE</key>
-    <string>System Wide</string>
+    <string>A l'échelle du système</string>
     <key>LOCKSCREEN</key>
-    <string>Lockscreen</string>
+    <string>Ecran de verouillage</string>
     <key>APP_SWITCHER</key>
-    <string>App Switcher</string>
+    <string>Sélecteur d'applications</string>
     <key>STATUS_BAR</key>
-    <string>Statusbar</string>
+    <string>Barre de status</string>
     <key>CONTROL_CENTER</key>
-    <string>Control Center</string>
+    <string>Centre de Controle</string>
     <key>WIDGETS_VIEW</key>
-    <string>Today View</string>
+    <string>Affichage du jour</string>
     <key>MESSAGES_SECTION</key>
     <string>Messages</string>
     <key>SETTINGS_SECTION</key>
-    <string>Settings</string>
+    <string>Paramètres</string>
     <key>PHOTOS_SECTION</key>
     <string>Photos</string>
     <key>SAFARI_SECTION</key>
@@ -31,26 +31,26 @@
     <key>CAMERA_SECTION</key>
     <string>Camera</string>
     <key>PHONE_SECTION</key>
-    <string>Phone</string>
+    <string>Téléphone</string>
     <key>OTHER_HEADER</key>
-    <string>Other</string>
+    <string>Autres</string>
     <key>EXPERIMENTAL_SECTION</key>
     <string>Experimental</string>
     <key>THIRD_PARTY_SECTION</key>
-    <string>Third Party Apps</string>
+    <string>Applications tierces</string>
     <key>CONTACT_DEVELOPER</key>
     <string>Contact</string>
     <key>SUPPORT_HEADER</key>
     <string>Support</string>
     <key>REQUEST_FEATURE</key>
-    <string>Request a Feature</string>
+    <string>Demander une fonctionnalité</string>
     <key>REPORT_BUG</key>
-    <string>Report a Bug</string>
+    <string>Reporter un bug</string>
     <key>TWEAK_GRAPHICS</key>
-    <string>Tweak Graphics</string>
+    <string>Paramètre graphique du tweak</string>
     <key>TRANSLATIONS</key>
-    <string>Translations</string>
+    <string>Traductions</string>
     <key>CONTRIBUTORS</key>
-    <string>Contributors</string>
+    <string>Contributions</string>
 </dict>
 </plist>
