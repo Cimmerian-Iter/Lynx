@@ -1,18 +1,18 @@
 <plist version="1.0">
 <dict>
     <key>CELLS</key>
-    <string>Cells</string>
+    <string>Cellules</string>
     <key>HIDE_THIRD_PARTY_APPS</key>
-    <string>Hide 3rd Party Apps</string>
+    <string>Cacher les Applications tierces</string>
     <key>HIDE_CELL_ICONS</key>
     <string>Hide Cell Icons</string>
     <key>NETWORK</key>
-    <string>Network</string>
+    <string>Réseau</string>
     <key>SHOW_IP_ADDRESS</key>
-    <string>Show IP Address</string>
+    <string>Montrer l'addresse IP</string>
     <key>SHOW_ETHERNET_SECTION</key>
-    <string>Show Ethernet Section</string>
+    <string>Montrer la section Ethernet</string>
     <key>SETTINGS</key>
-    <string>Settings</string>
+    <string>Paramètres</string>
 </dict>
 </plist>
