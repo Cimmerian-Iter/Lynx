@@ -19,9 +19,9 @@
     <key>HIDE_COLORED_VIEW</key>
     <string>Cacher la vue coloré</string>
     <key>HIDE_PULSING_VIEW</key>
-    <string>Caché la vue impulsionel</string>
+    <string>Cacher la vue impulsionel</string>
     <key>ROUNDED_VIEW_PLACEHOLDER</key>
-    <string>Activer "Caché la vue coloré" affecte les services de localisation, de point d'accès mobile et enregistrement d'écran sur les iPhone X et ultérieur</string>
+    <string>Activer "Cacher la vue coloré" affecte les services de localisation, de point d'accès mobile et d'enregistrement de l'écran sur les iPhone X et ultérieur</string>
     <key>STATUS_BAR</key>
     <string>Barre de status</string>
 </dict>
