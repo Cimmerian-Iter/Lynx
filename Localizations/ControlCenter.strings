@@ -5,7 +5,7 @@
     <key>HIDE_STATUS_BAR</key>
     <string>Cacher la barre de status</string>
     <key>HIDE_TOGGLE_HINTS</key>
-    <string>Hide Toggle Hints</string>
+    <string>Cacher le message de confirmation d'activation</string>
     <key>CONNECTIVITY</key>
     <string>Connectivité</string>
     <key>HIDE_CONNECTIVITY_SEPARATORS</key>
