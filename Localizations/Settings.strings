@@ -1,11 +1,11 @@
 <plist version="1.0">
 <dict>
     <key>CELLS</key>
-    <string>Cellules</string>
+    <string>Réseau cellulaire</string>
     <key>HIDE_THIRD_PARTY_APPS</key>
     <string>Cacher les Applications tierces</string>
     <key>HIDE_CELL_ICONS</key>
-    <string>Hide Cell Icons</string>
+    <string>Cacher les icones réseau cellulaire</string>
     <key>NETWORK</key>
     <string>Réseau</string>
     <key>SHOW_IP_ADDRESS</key>
