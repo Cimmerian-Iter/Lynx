@@ -1,15 +1,15 @@
 <plist version="1.0">
 <dict>
     <key>NOTIFICATION_ICONS</key>
-    <string>Notification Icons</string>
+    <string>Icones des notifications</string>
     <key>USE_MODERN_STYLE</key>
-    <string>Use Modern Style</string>
+    <string>Utiliser le style moderne</string>
     <key>AUTO_LAYOUT</key>
-    <string>Force Auto Layout</string>
+    <string>Forcer la disposition automatique</string>
     <key>USE_CIRCLE_ICONS</key>
-    <string>Use Circle Icons</string>
+    <string>Utiliser des icones cirulaire</string>
     <key>AUTO_LAYOUT_PLACEHOLDER</key>
-    <string>Forcing 'Auto-Layout' may cause icons to jump when opening notification stacks</string>
+    <string>Forcer la disposition automatique peut faire "sauter" les icones lors de l'ouverture des notifications groupé</string>
     <key>EXPERIMENTAL</key>
     <string>Experimental</string>
 </dict>
