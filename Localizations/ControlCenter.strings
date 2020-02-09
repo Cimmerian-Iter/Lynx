@@ -1,18 +1,18 @@
 <plist version="1.0">
 <dict>
     <key>STATUS_BAR</key>
-    <string>Status Bar</string>
+    <string>Barre de status</string>
     <key>HIDE_STATUS_BAR</key>
-    <string>Hide Status Bar</string>
+    <string>Cacher la barre de status</string>
     <key>HIDE_TOGGLE_HINTS</key>
     <string>Hide Toggle Hints</string>
     <key>CONNECTIVITY</key>
-    <string>Connectivity</string>
+    <string>Connectivité</string>
     <key>HIDE_CONNECTIVITY_SEPARATORS</key>
-    <string>Hide Connectivity Separators</string>
+    <string>Cacher la separation du module connectivité</string>
     <key>DISABLE_TOGGLES</key>
-    <string>Actually Disable Toggles</string>
+    <string>Désactive completement une option lors du basculement</string>
     <key>CONTROL_CENTER</key>
-    <string>Control Center</string>
+    <string>Centre de Contrôle</string>
 </dict>
 </plist>
