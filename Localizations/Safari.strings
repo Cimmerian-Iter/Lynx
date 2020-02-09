@@ -1,10 +1,10 @@
 <plist version="1.0">
 <dict>
     <key>TAB_OVERVIEW</key>
-    <string>Tab Overview</string>
+    <string>Aperçu des onglets</string>
     <key>USE_TAB_OVERVIEW</key>
-    <string>Use Tab Overview</string>
+    <string>Utiliser l'aperçu des onglets</string>
     <key>DISCLAIMER_PLACEHOLDER</key>
-    <string>Animations may be buggy on iPhone when selecting 'Use Tab Overview' as it's intended for iPads only</string>
+    <string>Les animations peuvent être buggé quand l'option "Aperçu des onlgets" est activé comme il s'agit d'une option pour iPad</string>
 </dict>
 </plist>
